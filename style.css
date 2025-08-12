@@ -4,7 +4,21 @@ h1 {
 
 .title { 
     color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    
 }
 #description {
     color: green;
+    font-size: 20px;
+}
+.container{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
 }
